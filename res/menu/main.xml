@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.pianoapp.MainActivity" >
+
+    <item
+        android:id="@+id/select_instru"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/select_instrument"/>
+
+</menu>

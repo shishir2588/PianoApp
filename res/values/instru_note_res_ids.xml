@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="piano_notes">
+        <item >@raw/c4_piano</item>
+        <item >@raw/csharp4_piano</item>
+        <item >@raw/d4_piano</item>
+        <item >@raw/eflat4_piano</item>
+        <item >@raw/e4_piano</item>
+        <item >@raw/f4_piano</item>
+        <item >@raw/fsharp4_piano</item>
+        <item >@raw/g4_piano</item>
+        <item >@raw/gsharp4_piano</item>
+        <item >@raw/a4_piano</item>
+        <item >@raw/bflat4_piano</item>
+        <item >@raw/b4_piano</item>
+        <item >@raw/c5_piano</item>
+        <item >@raw/csharp5_piano</item>
+        <item >@raw/d5_piano</item>
+        <item >@raw/eflat5_piano</item>
+        <item >@raw/e5_piano</item>
+    </integer-array>
+        
+    <integer-array name="guitar_notes">
+        <item >@raw/c4_guitar</item>
+        <item >@raw/csharp4_guitar</item>
+        <item >@raw/d4_guitar</item>
+        <item >@raw/eflat4_guitar</item>
+        <item >@raw/e4_guitar</item>
+        <item >@raw/f4_guitar</item>
+        <item >@raw/fsharp4_guitar</item>
+        <item >@raw/g4_guitar</item>
+        <item >@raw/gsharp4_guitar</item>
+        <item >@raw/a4_guitar</item>
+        <item >@raw/bflat4_guitar</item>
+        <item >@raw/b4_guitar</item>
+        <item >@raw/c5_guitar</item>
+        <item >@raw/csharp5_guitar</item>
+        <item >@raw/d5_guitar</item>
+        <item >@raw/eflat5_guitar</item>
+        <item >@raw/e5_guitar</item>
+    </integer-array>
+    
+    <integer-array name="violin_notes">
+        <item >@raw/c4_violin</item>
+        <item >@raw/csharp4_violin</item>
+        <item >@raw/d4_violin</item>
+        <item >@raw/eflat4_violin</item>
+        <item >@raw/e4_violin</item>
+        <item >@raw/f4_violin</item>
+        <item >@raw/fsharp4_violin</item>
+        <item >@raw/g4_violin</item>
+        <item >@raw/gsharp4_violin</item>
+        <item >@raw/a4_violin</item>
+        <item >@raw/bflat4_violin</item>
+        <item >@raw/b4_violin</item>
+        <item >@raw/c5_violin</item>
+        <item >@raw/csharp5_violin</item>
+        <item >@raw/d5_violin</item>
+        <item >@raw/eflat5_violin</item>
+        <item >@raw/e5_violin</item>
+    </integer-array>
+    
+    <integer-array name="flute_notes">
+        <item >@raw/c4_flute</item>
+        <item >@raw/csharp4_flute</item>
+        <item >@raw/d4_flute</item>
+        <item >@raw/eflat4_flute</item>
+        <item >@raw/e4_flute</item>
+        <item >@raw/f4_flute</item>
+        <item >@raw/fsharp4_flute</item>
+        <item >@raw/g4_flute</item>
+        <item >@raw/gsharp4_flute</item>
+        <item >@raw/a4_flute</item>
+        <item >@raw/bflat4_flute</item>
+        <item >@raw/b4_flute</item>
+        <item >@raw/c5_flute</item>
+        <item >@raw/csharp5_flute</item>
+        <item >@raw/d5_flute</item>
+        <item >@raw/eflat5_flute</item>
+        <item >@raw/e5_flute</item>
+    </integer-array>
+    
+    <integer-array name="harmonica_notes">
+        <item >@raw/c4_harmonica</item>
+        <item >@raw/csharp4_harmonica</item>
+        <item >@raw/d4_harmonica</item>
+        <item >@raw/eflat4_harmonica</item>
+        <item >@raw/e4_harmonica</item>
+        <item >@raw/f4_harmonica</item>
+        <item >@raw/fsharp4_harmonica</item>
+        <item >@raw/g4_harmonica</item>
+        <item >@raw/gsharp4_harmonica</item>
+        <item >@raw/a4_harmonica</item>
+        <item >@raw/bflat4_harmonica</item>
+        <item >@raw/b4_harmonica</item>
+        <item >@raw/c5_harmonica</item>
+        <item >@raw/csharp5_harmonica</item>
+        <item >@raw/d5_harmonica</item>
+        <item >@raw/eflat5_harmonica</item>
+        <item >@raw/e5_harmonica</item>
+    </integer-array>
+    
+    <integer-array name="acoustic_bass_notes">
+        <item >@raw/c4_acoustic_bass</item>
+        <item >@raw/csharp4_acoustic_bass</item>
+        <item >@raw/d4_acoustic_bass</item>
+        <item >@raw/eflat4_acoustic_bass</item>
+        <item >@raw/e4_acoustic_bass</item>
+        <item >@raw/f4_acoustic_bass</item>
+        <item >@raw/fsharp4_acoustic_bass</item>
+        <item >@raw/g4_acoustic_bass</item>
+        <item >@raw/gsharp4_acoustic_bass</item>
+        <item >@raw/a4_acoustic_bass</item>
+        <item >@raw/bflat4_acoustic_bass</item>
+        <item >@raw/b4_acoustic_bass</item>
+        <item >@raw/c5_acoustic_bass</item>
+        <item >@raw/csharp5_acoustic_bass</item>
+        <item >@raw/d5_acoustic_bass</item>
+        <item >@raw/eflat5_acoustic_bass</item>
+        <item >@raw/e5_acoustic_bass</item>
+    </integer-array>
+    
+    <integer-array name="trumpet_notes">
+        <item >@raw/c4_trumpet</item>
+        <item >@raw/csharp4_trumpet</item>
+        <item >@raw/d4_trumpet</item>
+        <item >@raw/eflat4_trumpet</item>
+        <item >@raw/e4_trumpet</item>
+        <item >@raw/f4_trumpet</item>
+        <item >@raw/fsharp4_trumpet</item>
+        <item >@raw/g4_trumpet</item>
+        <item >@raw/gsharp4_trumpet</item>
+        <item >@raw/a4_trumpet</item>
+        <item >@raw/bflat4_trumpet</item>
+        <item >@raw/b4_trumpet</item>
+        <item >@raw/c5_trumpet</item>
+        <item >@raw/csharp5_trumpet</item>
+        <item >@raw/d5_trumpet</item>
+        <item >@raw/eflat5_trumpet</item>
+        <item >@raw/e5_trumpet</item>
+    </integer-array>
+    
+     <integer-array name="sitar_notes">
+        <item >@raw/c4_sitar</item>
+        <item >@raw/csharp4_sitar</item>
+        <item >@raw/d4_sitar</item>
+        <item >@raw/eflat4_sitar</item>
+        <item >@raw/e4_sitar</item>
+        <item >@raw/f4_sitar</item>
+        <item >@raw/fsharp4_sitar</item>
+        <item >@raw/g4_sitar</item>
+        <item >@raw/gsharp4_sitar</item>
+        <item >@raw/a4_sitar</item>
+        <item >@raw/bflat4_sitar</item>
+        <item >@raw/b4_sitar</item>
+        <item >@raw/c5_sitar</item>
+        <item >@raw/csharp5_sitar</item>
+        <item >@raw/d5_sitar</item>
+        <item >@raw/eflat5_sitar</item>
+        <item >@raw/e5_sitar</item>
+    </integer-array>
+    
+</resources>

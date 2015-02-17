@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/parent_view" >
+	<LinearLayout
+	    android:id="@+id/white_keys"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:orientation="horizontal"
+	    android:weightSum="100" >
+	
+	    <ImageView
+	        android:id="@+id/key_c4"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"
+	        android:src="@drawable/piano_white_key_unpressed" />
+	    
+	    <ImageView
+	        android:id="@+id/key_d4"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"
+	        android:src="@drawable/piano_white_key_unpressed" />
+	    
+	    <ImageView
+	        android:id="@+id/key_e4"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"
+	        android:src="@drawable/piano_white_key_unpressed" />
+	    
+	    <ImageView
+	        android:id="@+id/key_f4"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"
+	        android:src="@drawable/piano_white_key_unpressed" />
+	    
+	    <ImageView
+	        android:id="@+id/key_g4"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"
+	        android:src="@drawable/piano_white_key_unpressed" />
+	    
+	    <ImageView
+	        android:id="@+id/key_a4"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"
+	        android:src="@drawable/piano_white_key_unpressed" />
+	    
+	    <ImageView
+	        android:id="@+id/key_b4"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"
+	        android:src="@drawable/piano_white_key_unpressed" />
+	    
+	    <ImageView
+	        android:id="@+id/key_c5"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"
+	        android:src="@drawable/piano_white_key_unpressed" />
+	    
+	    <ImageView
+	        android:id="@+id/key_d5"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"
+	        android:src="@drawable/piano_white_key_unpressed" />
+	    
+	    <ImageView
+	        android:id="@+id/key_e5"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"
+	        android:src="@drawable/piano_white_key_unpressed" />
+	
+	</LinearLayout>
+	
+	<LinearLayout
+	    android:id="@+id/black_keys"
+	    android:layout_width="match_parent"
+	    android:layout_height="150dp"
+	    android:orientation="horizontal"
+	    android:weightSum="170"
+	    android:layout_alignParentTop="true"
+	    android:layout_alignParentLeft="true" >
+	    
+	    <Space
+	        android:layout_width="0dp" 
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"/>
+	
+	    <ImageView
+	        android:id="@+id/key_csharp4"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"
+	        android:src="@drawable/piano_black_key_unpressed" />
+	    
+	    <Space 
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"/>
+	    
+	    <ImageView
+	        android:id="@+id/key_eflat4"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"
+	        android:src="@drawable/piano_black_key_unpressed" />
+	    
+	    <Space 
+	        android:layout_width="0dp" 
+	        android:layout_height="match_parent"
+	        android:layout_weight="20"/>
+	    
+	    <ImageView
+	        android:id="@+id/key_fsharp4"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"
+	        android:src="@drawable/piano_black_key_unpressed" />
+	    
+	    <Space 
+	        android:layout_width="0dp" 
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"/>
+	    
+	    <ImageView
+	        android:id="@+id/key_gsharp4"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"
+	        android:src="@drawable/piano_black_key_unpressed" />
+	    
+	    <Space 
+	        android:layout_width="0dp" 
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"/>
+	    
+	    <ImageView
+	        android:id="@+id/key_bflat4"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"
+	        android:src="@drawable/piano_black_key_unpressed" />
+	    
+	    <Space 
+	        android:layout_width="0dp" 
+	        android:layout_height="match_parent"
+	        android:layout_weight="20"/>
+	    
+	    <ImageView
+	        android:id="@+id/key_csharp5"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"
+	        android:src="@drawable/piano_black_key_unpressed" />
+	    
+	    <Space 
+	        android:layout_width="0dp" 
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"/>
+	    
+	    <ImageView
+	        android:id="@+id/key_eflat5"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="10"
+	        android:src="@drawable/piano_black_key_unpressed" />
+	
+	</LinearLayout>
+</RelativeLayout>
